@@ -1,6 +1,6 @@
 # EMS-Wiki
 Buderus Logamatic EMS and EMS+ bus Wiki for Bosch, Buderus, Nefit, Junkers, Worcester devices.<br>
-Other names or versions of the EMS bus are EMS+, EMS2, Heatronic and Heatronic 3.
+Other names or versions of the EMS bus are EMS+, EMS Plus, EMS2, Heatronic and Heatronic 3.
 Junkers also calls it '2-Draht-Bus-System' or '2-wire-bus'.
 
 -This is a placeholder for transferring all the EMS bus information from my other Github repository.-<br>

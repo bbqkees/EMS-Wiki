@@ -15,3 +15,4 @@ EMS|73|0x30|SM10 Solar module|
 EMS/EMS2|||MC400 Cascade module|
 EMS/EMS2|||MM100 Mixer module|
 EMS/EMS2|||MS100 Solar module|
+EMS/EMS2|||MS200 Extended solar module|

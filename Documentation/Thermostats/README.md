@@ -1,17 +1,39 @@
 This page will over time include more information specific to certain thermostats.
 Take the details with a grain of salt please. Not everything is verified yet.
 
+
+
+ {EMS_MODEL_ES73, 76, 0x10, "Sieger ES73", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_YES},
+    {EMS_MODEL_RC10, 79, 0x17, "RC10/Nefit Moduline 100", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_YES},
+    {EMS_MODEL_RC20, 77, 0x17, "RC20/Nefit Moduline 300", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_YES},
+    {EMS_MODEL_RC20F, 93, 0x18, "RC20F", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_YES},
+    {EMS_MODEL_RC30, 78, 0x10, "RC30/Nefit Moduline 400", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_YES},
+    {EMS_MODEL_RC35, 86, 0x10, "RC35", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_YES},
+    {EMS_MODEL_EASY, 202, 0x18, "TC100/Nefit Easy", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_NO},
+    {EMS_MODEL_BOSCHEASY, 206, 0x02, "Bosch Easy", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_NO},
+    {EMS_MODEL_RC310, 158, 0x10, "RC310", EMS_THERMOSTAT_READ_NO, EMS_THERMOSTAT_WRITE_NO},
+    {EMS_MODEL_CW100, 255, 0x18, "Bosch CW100", EMS_THERMOSTAT_READ_NO, EMS_THERMOSTAT_WRITE_NO},
+    {EMS_MODEL_OT, 171, 0x02, "EMS-OT OpenTherm converter", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_YES},
+{EMS_MODEL_RC10, 165, 0x02, "RC10/", EMS_THERMOSTAT_READ_YES, EMS_THERMOSTAT_WRITE_YES}
+
 ## EMS Thermostats
 
-Bus Type | EMS ID | Buderus type | Nefit type | Image
+Bus Type | Model ID | EMS ID | Brand and type | Image
 ---|---|---|---|---
-EMS|0x17|RC10?|Moduline 100|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-moduline-100.JPG" width="150">
-EMS|0x17|RC20|Moduline 200|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline200.jpg" width="150">
-EMS|0x10||Moduline 300|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
-EMS|0x10|RC30||<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
-EMS|0x17|RC35|Moduline 400|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
-EMS|0x10|RC35 (built-in version)||<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/built-in-RC35.jpg" width="150">
-EMS|0x18|CT100/TC100|Easy|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-easy.jpg" height="150">
+EMS|76|0x10|Sieger ES73|
+EMS|79|0x17|Buderus RC10<br>Nefit Moduline 100|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-moduline-100.JPG" width="150">
+EMS|||Nefit Moduline 200|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline200.jpg" width="150">
+EMS|77|0x17|Buderus RC20<br>Nefit Moduline 300|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
+EMS|93|0x18|Buderus RC20F|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-moduline-100.jpg" width="150">
+EMS|78|0x10|Buderus RC30<br>Nefit Moduline 400<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
+EMS|86|0x10|Buderus RC35<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
+EMS|86|0x10|RC35 (built-in version)|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/built-in-RC35.jpg" width="150">
+EMS|202|0x18|Buderus TC100<br>Junkers TC100<br>Nefit Easy|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-easy.jpg" height="150">
+EMS|206|0x02|Bosch EasyControl|
+EMS|158|0x10|Buderus RC310|
+EMS|255|0x18|Bosch CW100|
+EMS|171|0x02|Bosch / Nefit EMS to Opentherm converter|
+EMS/EMS2|165|0x02|Nefit Moduline 1010|
 
 
 Although the hardware of some thermostats is identical (if you open up a ModuLine 300 or 400 it says 'RC35' on the PCB), the firmware will be different. It appears there are also differences in frametypes. However, as more people are using theses sketches this will be resolved over time.<br>

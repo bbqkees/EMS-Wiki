@@ -13,11 +13,8 @@ EMS|0x17|RC35|Moduline 400|<img src="https://raw.githubusercontent.com/bbqkees/N
 EMS|0x10|RC35 (built-in version)||<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/built-in-RC35.jpg" width="150">
 EMS|0x18|CT100/TC100|Easy|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-easy.jpg" height="150">
 
-The RC30 is equal to the Nefit Moduline 300 and the RC35 is equal to the Moduline 400.<br>
-The RC20 is likely equal to the Nefit Moduleline 200.<br>
-Although the hardware is identical (if you open up a ModuLine 400 it says 'RC35' on the PCB), the firmware may be a bit different. It appears there are slight differences in frametypes. However, as more people are using theses sketches this will be resolved over time.<br>
-Furthermore in principle all EMS bus thermostats can be supported. So this also includes the Nefit Easy and the new line of ModuLine series 1000, 2000, 3000 etc. For a new thermostat you need to log the data on the bus when you set the temperature on the thermostat and go through the log to find the correct messages.<br>If you have a newer Nefit/Bosch/Buderus EMS thermostat and you would like to help I can give a hand. You can contact me via the [Domoticz forum](http://www.domoticz.com/forum/memberlist.php?mode=viewprofile&u=1736).
 
+Although the hardware of some thermostats is identical (if you open up a ModuLine 300 or 400 it says 'RC35' on the PCB), the firmware will be different. It appears there are also differences in frametypes. However, as more people are using theses sketches this will be resolved over time.<br>
 
 ### RC10 ≈ Moduline 100
 This is the simplest EMS thermostat.<br>

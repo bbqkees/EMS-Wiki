@@ -1,17 +1,17 @@
 This page will over time include more information specific to certain thermostats.
+Take the details with a grain of salt please. Not everything is verified yet.
 
-## Thermostat support
-EMS bus thermostats: RC20 (source ID 0x17), likely also RC30 and RC35 (both ID 0x10).<br>
-Depending on under which brand name these thermostats are sold they might have a different type name.<br>
+## EMS Thermostats
 
-EMS code | Buderus type | Nefit type | Image
----|---|---|---
-0x17|RC10?|Moduline 100|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-moduline-100.JPG" width="150">
-0x17|RC20|Moduline 200|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline200.jpg" width="150">
-0x10/0x17|RC30|Moduline 300|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
-0x10|RC35|Moduline 400|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
-0x10|RC35 (built-in version)||<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/built-in-RC35.jpg" width="150">
-0x18|CT100/TC100|Easy|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-easy.jpg" height="150">
+Bus Type | EMS ID | Buderus type | Nefit type | Image
+---|---|---|---|---
+EMS|0x17|RC10?|Moduline 100|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-moduline-100.JPG" width="150">
+EMS|0x17|RC20|Moduline 200|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline200.jpg" width="150">
+EMS|0x10||Moduline 300|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
+EMS|0x17|RC30||<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
+EMS|0x10|RC35|Moduline 400|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/moduline300-400.jpg" width="150">
+EMS|0x10|RC35 (built-in version)||<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/built-in-RC35.jpg" width="150">
+EMS|0x18|CT100/TC100|Easy|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-easy.jpg" height="150">
 
 The RC30 is equal to the Nefit Moduline 300 and the RC35 is equal to the Moduline 400.<br>
 The RC20 is likely equal to the Nefit Moduleline 200.<br>

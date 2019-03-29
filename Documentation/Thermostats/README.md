@@ -20,6 +20,10 @@ EMS|158|0x10|Buderus RC310|
 EMS|255|0x18|Bosch CW100|
 EMS|171|0x02|Bosch / Nefit EMS to Opentherm converter|
 EMS/EMS2|165|0x02|Nefit Moduline 1010|
+EMS/EMS2|||Nefit Moduline 1000|
+EMS/EMS2|||Nefit Moduline 2000|
+EMS/EMS2|||Nefit Moduline 2050|
+EMS/EMS2|||Nefit Moduline 3000|
 
 
 Although the hardware of some thermostats is identical (if you open up a ModuLine 300 or 400 it says 'RC35' on the PCB), the firmware will be different. It appears there are also differences in frametypes. However, as more people are using theses sketches this will be resolved over time.<br>

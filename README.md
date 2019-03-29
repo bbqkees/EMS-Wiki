@@ -3,13 +3,13 @@ Buderus Logamatic EMS and EMS+ bus Wiki for Bosch, Buderus, Nefit, Junkers, Worc
 Other names or versions of the EMS bus are EMS+, EMS Plus, EMS2, EMS2.0, Heatronic and Heatronic 3.
 Junkers and Nefit also call it '2-Draht-Bus-System' or '2-wire-bus'.
 
--This is a placeholder for transferring all the EMS bus information from my other Github repository.-<br>
+This repository is a collection of EMS protocol- and device documentation gathered from public sources like other Github repositories.<br>
 Will be filled in bit by bit.<br>
-
+<br>
+See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/Documentation) for all information.
 
 ## Links to existing EMS bus documentation
 [BBQKees' documentation](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz).<br>
-<br>
 [External EMS Wiki](https://emswiki.thefischer.net/doku.php).
 
 ## Links to existing EMS bus projects

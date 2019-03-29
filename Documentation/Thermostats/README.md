@@ -25,7 +25,6 @@ EMS/EMS2|||Nefit Moduline 2000|
 EMS/EMS2|||Nefit Moduline 2050|
 EMS/EMS2|||Nefit Moduline 3000|
 
-
 Although the hardware of some thermostats is identical (if you open up a ModuLine 300 or 400 it says 'RC35' on the PCB), the firmware will be different. It appears there are also differences in frametypes. However, as more people are using theses sketches this will be resolved over time.<br>
 
 ### RC10 ≈ Moduline 100
@@ -118,3 +117,12 @@ However, this datagram appears to be read-only so although you can read the temp
 
 
 Byte 8 and 9 contain the current room temperature (divide by 100) and byte 10 and 11 contain the current setpoint of the room temperature (divide by 100).
+
+
+**Non-EMS thermostats**
+
+Buderus type | Nefit type | Image
+---|---|---
+iRT30|ModuLine 30|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-irt30.jpg" width="150">
+
+If you have an older thermostat looking like the one above, your boiler is **NOT** compatible with the EMS bus.

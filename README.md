@@ -21,3 +21,4 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 
 ## Links to EMS hardware designs
 [Purchase an EMS to TTL interface board](https://shop.hotgoodies.nl/ems/).
+[3D printable enclosure for above board](https://www.thingiverse.com/thing:3532984).

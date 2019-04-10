@@ -20,5 +20,5 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 [wnelis' Raspberry Pi interface with Python](https://github.com/wnelis/EMSbus-raspberry-python).<br>
 
 ## Links to EMS hardware designs
-[Purchase an EMS to TTL interface board](https://shop.hotgoodies.nl/ems/).
+[Purchase an EMS to TTL interface board](https://shop.hotgoodies.nl/ems/).<br>
 [3D printable enclosure for above board](https://www.thingiverse.com/thing:3532984).

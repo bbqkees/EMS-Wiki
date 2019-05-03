@@ -18,7 +18,9 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 [Proddy's ESP8266 MQTT interface](https://github.com/proddy/EMS-ESP-Boiler).<br>
 [danimaciasperea' Arduino WiFly interface](https://github.com/danimaciasperea/Calduino).<br>
 [wnelis' Raspberry Pi interface with Python](https://github.com/wnelis/EMSbus-raspberry-python).<br>
+[Norberts1's Heatronic3/EMS2 Raspberry Pi interface with Python](https://github.com/norberts1/hometop_HT3)
+
 
 ## Links to EMS hardware designs
-[Purchase an EMS to TTL interface board](https://shop.hotgoodies.nl/ems/).<br>
+[Purchase an EMS/Heatronic to TTL interface board](https://shop.hotgoodies.nl/ems/).<br>
 [3D printable enclosure for above board](https://www.thingiverse.com/thing:3532984).

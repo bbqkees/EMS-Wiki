@@ -24,4 +24,7 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 
 ## Links to EMS hardware designs
 [Purchase an EMS/Heatronic to TTL interface board](https://shop.hotgoodies.nl/ems/).<br>
+![EMS to TTL interface](https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-ems-bus-interface-PCB.jpg)
+
+
 [3D printable enclosure for above board](https://www.thingiverse.com/thing:3532984).

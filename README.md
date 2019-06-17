@@ -14,8 +14,15 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 [External EMS Wiki](https://emswiki.thefischer.net/doku.php).
 
 ## Links to existing EMS bus projects
-[BBQKees' Arduino HTTP Get interface](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz).<br>
 [Proddy's ESP8266 MQTT interface](https://github.com/proddy/EMS-ESP-Boiler).<br>
+ESP8266 based code for communicating with and controlling EMS devices via MQTT.<br>
+Direct MQTT support for Home Assistant and initial support for Domoticz.<br><br>
+<img src="https://raw.githubusercontent.com/proddy/EMS-ESP/master/doc/home_assistant/ha.png" width="400"><br><br>
+
+
+
+[BBQKees' Arduino HTTP Get interface](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz).<br><br>
+
 [danimaciasperea' Arduino WiFly interface](https://github.com/danimaciasperea/Calduino).<br>
 [wnelis' Raspberry Pi interface with Python](https://github.com/wnelis/EMSbus-raspberry-python).<br>
 [Norberts1's Heatronic3/EMS2 Raspberry Pi interface with Python](https://github.com/norberts1/hometop_HT3)
@@ -23,8 +30,8 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 
 
 ## Links to EMS hardware designs
-[Purchase an EMS/Heatronic to TTL interface board](https://shop.hotgoodies.nl/ems/).<br>
-![EMS to TTL interface](https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-ems-bus-interface-PCB.jpg)
+[Purchase an EMS/Heatronic to TTL interface board](https://shop.hotgoodies.nl/ems/).<br><br>
+<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-ems-bus-interface-PCB.jpg" width="300"><br>
 
 
 [3D printable enclosure for above board](https://www.thingiverse.com/thing:3532984).

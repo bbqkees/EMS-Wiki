@@ -19,11 +19,15 @@ ESP8266 based code for communicating with and controlling EMS devices via MQTT.<
 Direct MQTT support for Home Assistant and initial support for Domoticz.<br><br>
 <img src="https://raw.githubusercontent.com/proddy/EMS-ESP/master/doc/home_assistant/ha.png" width="400"><br><br>
 
+[BBQKees' Arduino HTTP Get interface](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz).<br>
+Simple interface for reading the boiler parameters and send the values to Domoticz via HTTP GET requests.<br><br>
+<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/examples/nefit-in-out-temp1.JPG" width="300"><br><br>
 
-
-[BBQKees' Arduino HTTP Get interface](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz).<br><br>
 
 [danimaciasperea' Arduino WiFly interface](https://github.com/danimaciasperea/Calduino).<br>
+Arduino and WiFly interface tailored to retrieving boiler parameters and controlling the RC35 thermostat.<br><br>
+<img src="https://camo.githubusercontent.com/07ad32ff8b78302d300a807de74c31cc152ede5a/68747470733a2f2f646f6d6f74696370726f6a6563742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f43616c6475696e6f5f322d373638783537362e6a7067" width="300"><br><br>
+
 [wnelis' Raspberry Pi interface with Python](https://github.com/wnelis/EMSbus-raspberry-python).<br>
 [Norberts1's Heatronic3/EMS2 Raspberry Pi interface with Python](https://github.com/norberts1/hometop_HT3)
 [PCKoper's Raspberry Pi interface with Python](https://github.com/PCKoper/NefitEMS.py)

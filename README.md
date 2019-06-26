@@ -35,9 +35,9 @@ Arduino and WiFly interface tailored to retrieving boiler parameters and control
 
 ## Links to EMS hardware designs
 [Purchase an EMS/Heatronic to TTL interface board](https://shop.hotgoodies.nl/ems/).<br><br>
-<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-ems-bus-interface-PCB.jpg" height="180">
-<img src="https://shop.hotgoodies.nl/ems/ems-kit/on-boiler.jpg" height="180">
-<img src="https://hotgoodies.nl/shop/ems/ems-kit/ems-kit-2.jpg" height="180">
+<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-ems-bus-interface-PCB.jpg" height="150">
+<img src="https://shop.hotgoodies.nl/ems/ems-kit/on-boiler.jpg" height="150">
+<img src="https://hotgoodies.nl/shop/ems/ems-kit/ems-kit-2.jpg" height="150">
 
 <br>
 

@@ -29,13 +29,15 @@ Arduino and WiFly interface tailored to retrieving boiler parameters and control
 <img src="https://camo.githubusercontent.com/07ad32ff8b78302d300a807de74c31cc152ede5a/68747470733a2f2f646f6d6f74696370726f6a6563742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f43616c6475696e6f5f322d373638783537362e6a7067" width="300"><br><br>
 
 [wnelis' Raspberry Pi interface with Python](https://github.com/wnelis/EMSbus-raspberry-python).<br>
-[Norberts1's Heatronic3/EMS2 Raspberry Pi interface with Python](https://github.com/norberts1/hometop_HT3)
-[PCKoper's Raspberry Pi interface with Python](https://github.com/PCKoper/NefitEMS.py)
+[Norberts1's Heatronic3/EMS2 Raspberry Pi interface with Python](https://github.com/norberts1/hometop_HT3).<br>
+[PCKoper's Raspberry Pi interface with Python](https://github.com/PCKoper/NefitEMS.py).
 
 
 ## Links to EMS hardware designs
 [Purchase an EMS/Heatronic to TTL interface board](https://shop.hotgoodies.nl/ems/).<br><br>
 <img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-ems-bus-interface-PCB.jpg" height="180">
 <img src="https://shop.hotgoodies.nl/ems/ems-kit/on-boiler.jpg" height="180">
+<img src="https://hotgoodies.nl/shop/ems/ems-kit/ems-kit-2.jpg" height="180">
+
 <br>
 

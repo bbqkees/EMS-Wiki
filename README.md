@@ -39,5 +39,9 @@ Arduino and WiFly interface tailored to retrieving boiler parameters and control
 <img src="https://shop.hotgoodies.nl/ems/ems-kit/on-boiler.jpg" height="150">
 <img src="https://hotgoodies.nl/shop/ems/ems-kit/ems-kit-2.jpg" height="150">
 <br><br>
+<img src="https://shop.hotgoodies.nl/ems/ems-on-mega-2.jpg" height="150">
+<img src="https://shop.hotgoodies.nl/ems/ems-on-raspberry-pi.JPG" height="150">
+<img src="https://shop.hotgoodies.nl/ems/ems-kit/gateway-screw-usb.JPG" height="150">
+<br><br>
 [Or build your own circuit](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/tree/master/Documentation).<br>
 

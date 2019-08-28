@@ -1,6 +1,6 @@
 This page will over time include more information specific to certain thermostats.
 Take the details with a grain of salt please. Not everything is verified yet.
-
+Keep in mind that some thermostats like the RC35 and the ModuLine are multi-protocol, meaning that aside from EMS they also support older protocols like iRT.
 
 ## EMS Thermostats
 
@@ -24,6 +24,11 @@ EMS/EMS2|||Nefit Moduline 1000|
 EMS/EMS2|||Nefit Moduline 2000|
 EMS/EMS2|||Nefit Moduline 2050|
 EMS/EMS2|||Nefit Moduline 3000|
+EMS|105|0x10|Junkers FW100|
+EMS|111|0x18|Junkers FR10|
+EMS|105|0x18|Junkers FR100|
+EMS|108|0x18|Junkers FR110|
+EMS|120|0x10|Junkers FW120|
 
 Although the hardware of some thermostats is identical (if you open up a ModuLine 300 or 400 it says 'RC35' on the PCB), the firmware will be different. It appears there are also differences in frametypes. However, as more people are using theses sketches this will be resolved over time.<br>
 

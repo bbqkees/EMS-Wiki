@@ -16,14 +16,13 @@ EMS|86|0x10|Buderus RC35|<img src="https://raw.githubusercontent.com/bbqkees/Nef
 EMS|86|0x10|RC35 (built-in version)|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/built-in-RC35.jpg" width="150">
 EMS|202|0x18|Buderus TC100<br>Junkers TC100<br>Nefit Easy|<img src="https://raw.githubusercontent.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz/master/Documentation/nefit-easy.jpg" height="150">
 EMS|206|0x02|Bosch EasyControl|
-EMS|158|0x10|Buderus RC310|
 EMS|255|0x18|Bosch CW100|
 EMS|171|0x02|Bosch / Nefit EMS to Opentherm converter|
-EMS/EMS2|165|0x02|Nefit Moduline 1010|
+EMS/EMS2|165|0x18|Nefit Moduline 1010|
 EMS/EMS2|||Nefit Moduline 1000|
 EMS/EMS2|||Nefit Moduline 2000|
 EMS/EMS2|||Nefit Moduline 2050|
-EMS/EMS2|||Nefit Moduline 3000|
+EMS/EMS2|158|0x10|RC300/RC310/Nefit ModuLine 3000|
 EMS|105|0x10|Junkers FW100|
 EMS|111|0x18|Junkers FR10|
 EMS|105|0x18|Junkers FR100|

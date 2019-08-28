@@ -1,7 +1,7 @@
 List of EMS boilers and NON-EMS boilers.<br>
 In general EMS boilers all have bus ID 0x08.
 
-## EMS Boilers and devices that behave like a boiler
+## EMS Boilers and devices that behave like a boiler (like heat pumps)
 
 Bus Type | Model ID | EMS ID | Brand and type | Image
 ---|---|---|---|---
@@ -11,6 +11,8 @@ EMS|115|0x08|Nefit Topline Compact|
 EMS|203|0x08|Buderus Logamax U122|
 EMS|64|0x08|Sieger BK15 Boiler<br>Nefit Smartline|
 EMS|95|0x08|Bosch Condens 2500|
+EMS|122||Nefit ProLine|
+EMS|172||Nefit EnviLine|
 EMS|||Nefit 9000i|
 EMS|||Nefit ProLine (only the non-NxT!)|
 EMS|||Nefit SmartLine|

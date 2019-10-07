@@ -17,7 +17,7 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 [Proddy's ESP8266 MQTT interface](https://github.com/proddy/EMS-ESP-Boiler).<br>
 ESP8266 based code for communicating with and controlling EMS devices via MQTT.<br>
 Direct MQTT support for Home Assistant and initial support for Domoticz.<br><br>
-<img src="https://raw.githubusercontent.com/proddy/EMS-ESP/master/doc/home_assistant/ha.png" width="400"><br><br>
+<img src="https://raw.githubusercontent.com/proddy/EMS-ESP/master/doc/web/system_status.PNG" width="400"><br><br>
 
 [BBQKees' Arduino HTTP Get interface](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz).<br>
 Simple interface for reading the boiler parameters and send the values to Domoticz via HTTP GET requests.<br><br>

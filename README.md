@@ -32,6 +32,8 @@ Arduino and WiFly interface tailored to retrieving boiler parameters and control
 [Norberts1's Heatronic3/EMS2 Raspberry Pi interface with Python](https://github.com/norberts1/hometop_HT3).<br>
 [PCKoper's Raspberry Pi interface with Python](https://github.com/PCKoper/NefitEMS.py).
 
+[Victor-Mo's adaptation for EMS-ESP to interface with iRT bus boilers](https://github.com/Victor-Mo/IRT-EMS-ESP)
+
 
 ## Links to EMS hardware designs
 [Purchase an EMS/Heatronic to TTL interface board or EMS Bus Gateway here](https://shop.hotgoodies.nl/ems/).<br><br>

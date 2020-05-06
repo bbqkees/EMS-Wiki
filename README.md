@@ -17,7 +17,7 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 [Proddy's ESP8266 MQTT interface](https://github.com/proddy/EMS-ESP-Boiler).<br>
 ESP8266 based code for communicating with and controlling EMS devices via MQTT.<br>
 Direct MQTT support for Home Assistant and initial support for Domoticz.<br><br>
-<img src="https://raw.githubusercontent.com/proddy/EMS-ESP/master/doc/web/system_status.PNG" width="400"><br><br>
+<img src="https://camo.githubusercontent.com/204c2d15594ca8ba2c9adad11be255b6a1d3b685/68747470733a2f2f656d736573702e6769746875622e696f2f646f63732f5f6d656469612f6c6f676f2f454d532d4553505f6c6f676f5f6461726b2e706e67" width="300"><br><br>
 
 [BBQKees' Arduino HTTP Get interface](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz).<br>
 Simple interface for reading the boiler parameters and send the values to Domoticz via HTTP GET requests.<br><br>
@@ -28,6 +28,7 @@ Simple interface for reading the boiler parameters and send the values to Domoti
 Arduino and WiFly interface tailored to retrieving boiler parameters and controlling the RC35 thermostat.<br><br>
 <img src="https://camo.githubusercontent.com/07ad32ff8b78302d300a807de74c31cc152ede5a/68747470733a2f2f646f6d6f74696370726f6a6563742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f43616c6475696e6f5f322d373638783537362e6a7067" width="300"><br><br>
 
+[CreaValix' Buderus protocol stack for Posix compatible systems (like the Pi)](https://github.com/CreaValix/ems_bus).<br>
 [wnelis' Raspberry Pi interface with Python](https://github.com/wnelis/EMSbus-raspberry-python).<br>
 [Norberts1's Heatronic3/EMS2 Raspberry Pi interface with Python](https://github.com/norberts1/hometop_HT3).<br>
 [PCKoper's Raspberry Pi interface with Python](https://github.com/PCKoper/NefitEMS.py).

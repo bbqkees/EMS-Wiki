@@ -14,10 +14,14 @@ See the [Documentation folder](https://github.com/bbqkees/EMS-Wiki/tree/master/D
 [External EMS Wiki](https://emswiki.thefischer.net/doku.php).
 
 ## Links to existing EMS bus projects
-[Proddy's ESP8266 MQTT interface](https://github.com/proddy/EMS-ESP-Boiler).<br>
+[Proddy's EMS-ESP](https://github.com/emsesp/EMS-ESP).<br>
 ESP8266 based code for communicating with and controlling EMS devices via MQTT.<br>
-Direct MQTT support for Home Assistant and initial support for Domoticz.<br><br>
+Full support for Home Assistant Discovery protocol and support for Domoticz.<br><br>
 <img src="https://camo.githubusercontent.com/204c2d15594ca8ba2c9adad11be255b6a1d3b685/68747470733a2f2f656d736573702e6769746875622e696f2f646f63732f5f6d656469612f6c6f676f2f454d532d4553505f6c6f676f5f6461726b2e706e67" width="300"><br><br>
+
+[Proddy's EMS-ESP32](https://github.com/emsesp/EMS-ESP32).<br>
+ESP32 based code for communicating with and controlling EMS devices via MQTT.<br>
+Full support for Home Assistant Discovery protocol and support for Domoticz.<br><br>
 
 [BBQKees' Arduino HTTP Get interface](https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz).<br>
 Simple interface for reading the boiler parameters and send the values to Domoticz via HTTP GET requests.<br><br>
